@@ -1,0 +1,54 @@
+html{
+    font-size: 20px;
+    font-family: sans-serif, Arial, Helvetica;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*tela 1*/
+.p{
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+.g{
+    font-weight: bold;
+    margin-bottom: 45px;
+}
+
+img{
+    margin-top: 80px;
+    border-radius: 100%;
+}
+
+div{
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: rgb(161, 19, 107);
+}
+
+.butauMenor{
+    padding-left: 42px;
+    padding-right: 42px;
+}
+
+
+/* tela 2*/
+
+
+input{
+    border-radius: 8px;
+    background-color: rgb(8, 218, 255);
+}
+
+.imgT2{
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
